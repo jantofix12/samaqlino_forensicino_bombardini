@@ -1,6 +1,6 @@
 Starting data collection for exfiltration...
 
-./Bombardino_scriptino.sh: line 31: host: command not found
+./Bombardino_scriptino.sh: line 29: host: command not found
 4db8b3059080
 root
-./Bombardino_scriptino.sh: line 37: ip: command not found
+./Bombardino_scriptino.sh: line 35: ip: command not found
