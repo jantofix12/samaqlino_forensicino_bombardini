@@ -1,45 +1,6 @@
 Starting data collection for exfiltration...
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    15  100    15    0     0     73      0 --:--:-- --:--:-- --:--:--    73
-197.230.240.146
-./Bombardino_scriptino.sh: line 57: host: command not found
+
+./Bombardino_scriptino.sh: line 31: host: command not found
 4db8b3059080
 root
-./Bombardino_scriptino.sh: line 64: ip: command not found
-Starting data collection for exfiltration...
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    15  100    15    0     0     82      0 --:--:-- --:--:-- --:--:--    82
-197.230.240.146
-./Bombardino_scriptino.sh: line 57: host: command not found
-4db8b3059080
-root
-./Bombardino_scriptino.sh: line 64: ip: command not found
-Starting data collection for exfiltration...
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    15  100    15    0     0     75      0 --:--:-- --:--:-- --:--:--    75
-197.230.240.146
-./Bombardino_scriptino.sh: line 57: host: command not found
-4db8b3059080
-root
-./Bombardino_scriptino.sh: line 64: ip: command not found
-Starting data collection for exfiltration...
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    15  100    15    0     0     55      0 --:--:-- --:--:-- --:--:--    55
-197.230.240.146
-./Bombardino_scriptino.sh: line 57: host: command not found
-4db8b3059080
-root
-./Bombardino_scriptino.sh: line 64: ip: command not found
-Starting data collection for exfiltration...
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    15  100    15    0     0     53      0 --:--:-- --:--:-- --:--:--    53
-197.230.240.146
-./Bombardino_scriptino.sh: line 57: host: command not found
-4db8b3059080
-root
-./Bombardino_scriptino.sh: line 64: ip: command not found
+./Bombardino_scriptino.sh: line 37: ip: command not found
